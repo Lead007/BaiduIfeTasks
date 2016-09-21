@@ -1,0 +1,71 @@
+﻿body {
+    background-color: lightgray;
+}
+
+p {
+    font-family: "微软雅黑";
+}
+
+.navbar {
+    background: gray;
+}
+
+    .navbar ul {
+        float: right;
+        margin-right: 30px;
+    }
+
+    .navbar li {
+        float: left;
+        margin-left: 2em;
+        list-style: none;
+    }
+
+    .navbar a {
+        text-decoration: none;
+        color: white;
+        font-family: "黑体";
+    }
+
+.article {
+    background-color: white;
+    margin: 10px 1% 0 1%;
+    padding: 18px 1.5% 18px 1.5%;
+}
+
+.first-title {
+    font-family: "黑体";
+}
+
+.second-title {
+    font-family: "黑体";
+    color: gray;
+}
+
+.article-info {
+    font-size: 80%;
+    color: gray;
+}
+
+.para {
+    text-indent: 2em;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "微软雅黑";
+}
+
+    .table thead {
+        background-color: black;
+        color: white;
+    }
+
+    .table tr {
+        border: 1px solid gray;
+    }
+
+.input-tip {
+    color: gray;
+}
